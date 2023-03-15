@@ -4,3 +4,4 @@ camera  = PiCamera()
 
 camera.start_preview()
 
+
